@@ -1,0 +1,21 @@
+{
+  "name": "StumbleGuy",
+  "type": "replacewholebean",
+  "author": "oreytv",
+  "file": "skin_stumbleguy",
+  "boneOffsets": [
+    { "bone": "Elbow_L_jnt", "localPosition": { 
+        "x": -1.99999995e-05, 
+        "y": 0.00212999992, 
+        "z": -9.99999975e-06 
+    }},
+
+    { "bone": "Wrist_L_jnt", "localPosition": { "x": 1.49011609e-10, "y": 0.00144833571, "z": 4.37721609e-10 } },
+
+    { "bone": "Elbow_R_jnt1", "localPosition": { 
+        "x": 0.000169999999, 
+        "y": -0.00164999999, 
+        "z": 9.99999975e-06 
+    }}
+  ]
+}
