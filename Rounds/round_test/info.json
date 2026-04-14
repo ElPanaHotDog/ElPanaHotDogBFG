@@ -1,14 +1,11 @@
-﻿{
-  "displayName": "round_test",
+{
+  "displayName": "Test",
   "file": "round_test",
   "prefab": "round_test",
-  "skybox": "New Material 1",
+  "skybox": "",
   "ambientMode": "3",
-  "ambientLight": "0.2568085 0.2642647 0.2735849 1",
-  "fog": "true",
-  "fogDensity": "0.002",
-  "fogColor": "0.7943218 0.8722274 0.9622642 1",
-  "musicBank": "Master.bank",
-  "musicEvent": "event:/iphonesixplus",
-  "musicStringsBank": "Master.strings.bank"
+  "ambientLight": "0.2 0.2 0.2 1",
+  "fog": "false",
+  "fogDensity": "0.01",
+  "fogColor": "0.5 0.5 0.5 1"
 }
