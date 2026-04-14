@@ -1,7 +1,7 @@
 ﻿{
-  "displayName": "waw",
-  "file": "round_waw",
-  "prefab": "round_waw",
+  "displayName": "round_test",
+  "file": "round_test",
+  "prefab": "round_test",
   "skybox": "New Material 1",
   "ambientMode": "3",
   "ambientLight": "0.2568085 0.2642647 0.2735849 1",
