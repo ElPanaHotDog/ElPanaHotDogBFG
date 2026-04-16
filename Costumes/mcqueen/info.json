@@ -5,7 +5,5 @@
   "file": "mcqueen2",
   "type": "costume",
   "keepBase": false,
-  "boneOffsets": [
-    { "bone": "Object_8", "x": 0, "y": 0, "z": 0 }
-  ]
+  "boneOffsets": []
 }
