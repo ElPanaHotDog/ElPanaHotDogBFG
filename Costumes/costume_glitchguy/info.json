@@ -1,0 +1,13 @@
+﻿{
+  "name": "Glitch Guy",
+  "author": "ElPanaHotDog",
+  "description": "",
+  "file": "skin_glitchguy",
+  "type": "costume",
+  "keepBase": true,
+  "skinScale": 0.001,
+  "boneOffsets": [
+    { "bone": "Eye_L_jnt", "x": -0.00120082, "y": 0.00232797, "z": 0.00382156 },
+    { "bone": "Eye_R_jnt", "x": 0.00120082, "y": 0.00232797, "z": 0.00382156 }
+  ]
+}
