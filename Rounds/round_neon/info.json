@@ -1,0 +1,14 @@
+﻿{
+  "displayName": "NeonGeo",
+  "file": "round_neongeo",
+  "prefab": "round_neongeo",
+  "skybox": "Fog2",
+  "ambientMode": "3",
+  "ambientLight": "0.2 0.2 0.2 1",
+  "fog": "true",
+  "fogDensity": "3.54",
+  "fogColor": "0 0 0 1",
+  "musicBank": "",
+  "musicEvent": "",
+  "musicStringsBank": ""
+}
