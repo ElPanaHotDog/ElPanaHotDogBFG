@@ -1,0 +1,12 @@
+﻿{
+  "name": "Jabirds",
+  "author": "El Pana Hot Dog",
+  "description": "He was never an Angry Bird",
+  "file": "ch_jabirds_bfg",
+  "type": "costume",
+  "keepBase": false,
+  "boneOffsets": [
+    { "bone": "Eye_L_jnt", "x": -0.00120082, "y": 0.00232797, "z": 0.00382156 },
+    { "bone": "Eye_R_jnt", "x": 0.00120082, "y": 0.00232797, "z": 0.00382156 }
+  ]
+}
