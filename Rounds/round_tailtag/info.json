@@ -10,6 +10,6 @@
   "fog": "false",
   "fogDensity": "0.01",
   "fogColor": "0.5 0.5 0.5 1",
-  "keepExistingObjects": "false",
+  "keepExistingObjects": "true",
   "music": ""
 }
